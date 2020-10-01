@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-path = r"C:\Users\djsam\Downloads\outr.tr"
+path = r""
 
 with open(path, 'r') as f:
     lines = f.readlines()
